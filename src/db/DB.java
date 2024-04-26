@@ -33,7 +33,7 @@ public class DB {
             }
         }
     }
-
+    //oi
     private static Properties loadProperties() {
         try (FileInputStream fs = new FileInputStream("C:\\Faculdade\\Intellij\\teste-jdbc\\db.properties")) {
             Properties props = new Properties();
